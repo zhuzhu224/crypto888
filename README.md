@@ -9,9 +9,8 @@
 - [币圈避坑手册](./币圈避坑手册.md) - 详细的防骗指南,助你规避各类风险
 
 # 猪哥推特(欢迎关注交流)
-- **[猪哥推特](https://x.com/zhuzhu224)**
-- **[Telegram](https://t.me/zhuzhu224)**
-- **[Telegram交流群](http://t.me/zhujiajun224)**
+- **[猪哥推特](https://x.com/bro_zhu)**
+- **[Telegram](https://t.me/bro_zhu)**
 
 ## 🎯 项目目标
 
